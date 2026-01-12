@@ -55,23 +55,6 @@ Como freelance, combino la docencia en informática y ciberseguridad con la gest
   />
 </div>
 
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Maalfer&show_icons=true&theme=tokyonight&hide_border=true&locale=es&custom_title=Estadísticas%20de%20GitHub&rank_icon=github"
-    alt="Estadísticas GitHub"
-  />
-  <br/><br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maalfer&layout=compact&theme=tokyonight&hide_border=true&locale=es"
-    alt="Lenguajes más usados"
-  />
-</div>
-
-<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
-
 ### 🚀 Proyectos Web destacados
 
 - 🐍 [**TheL4FPRO**](https://app.living4football.club/): Aplicación web de reservas deportivas desarrollada con **FastAPI** y **Jinja2**, enfocada en gestión de usuarios y roles docentes.
