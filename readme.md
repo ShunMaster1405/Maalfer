@@ -5,7 +5,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=Maalfer&label=Visitas&color=f0db4f&style=flat-square" alt="Visitas al perfil"/>
     <img src="https://img.shields.io/github/followers/Maalfer?label=Seguidores&style=flat-square&color=f0db4f" alt="Seguidores"/>
-    <img src="https://img.shields.io/github/stars/Maalfer?label=Estrellas&style=flat-square&color=f0db4f" alt="Estrellas"/>
+    <img src="https://img.shields.io/github/stars/Maalfer?label=Estrellas&style=flat-square&color=f0db4f" alt="Estrellas"/>. 
   </p>
 </div>
 
